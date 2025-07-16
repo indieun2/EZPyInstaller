@@ -1,4 +1,4 @@
-# This script is broken the exe doesnt wanna build but add onto it if you wanna
+# This V3 script is broken the exe doesnt wanna build but add onto it if you wanna
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
